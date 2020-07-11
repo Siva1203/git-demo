@@ -10,4 +10,8 @@ Wow i really like this mark down format. I need to learn more about it
 
 This is branch testing
 copy-right notice
+<<<<<<< HEAD
 Test
+=======
+Just another text
+>>>>>>> master
